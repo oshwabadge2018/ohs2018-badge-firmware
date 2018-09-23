@@ -4,3 +4,6 @@
 [submodule "lvgl"]
 	path = lvgl
 	url = https://github.com/littlevgl/lvgl.git
+[submodule "micropython"]
+	path = micropython
+	url = https://github.com/oshwabadge2018/micropython.git
